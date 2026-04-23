@@ -90,7 +90,7 @@ AutoStream: Perfect, thank you Alex! 🎉  I've passed your details to our team.
 
 ---
 
-## Architecture (~200 words)
+## Architecture 
 
 ### Why LangGraph?
 
